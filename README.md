@@ -68,6 +68,7 @@ print("\nClassification Report:")
 print(classification_rep)
 ```
 <H3>Output:</H3>
+.
 <img src="https://github.com/user-attachments/assets/18fffa86-08c8-4e61-917a-63be98992b6e"></img>
 
 <H3>Results:</H3>
